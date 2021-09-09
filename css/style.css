@@ -909,7 +909,7 @@ body.ie .ibg img {
 .menu__list li:hover {
 	margin: 0 0 0 -4px;
 	line-height: 21px;
-	text-shadow: 2px 1px 1px red;
+	text-shadow: 1px 1px 1px #000;
 	margin: 0 0 0 60px;
 }
 @media (max-width: 767px) {
