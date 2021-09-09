@@ -911,6 +911,7 @@ body.ie .ibg img {
 	line-height: 21px;
 	text-shadow: 1px 1px 1px #000;
 	margin: 0 0 0 60px;
+	color: red;
 }
 @media (max-width: 767px) {
 	.menu__list {
